@@ -8,7 +8,7 @@ conocimientos en entornos reales, aprender de profesionales con experiencia y co
 Estoy comprometido con el crecimiento constante, la calidad del código y el trabajo en equipo.
 
 ## 🚀 Tecnologías y Herramientas
-![HTML]
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![C#]
 ![Java]
 ![JavaScript]
