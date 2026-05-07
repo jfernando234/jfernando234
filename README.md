@@ -7,7 +7,7 @@ Desarrollador Web | Frontend & Backend
 Soy estudiante de **Ingeniería de Sistemas** en **Lima, Perú**, apasionado por la tecnología y el desarrollo de software. Tengo experiencia en el desarrollo **frontend y backend**, construyendo aplicaciones web y soluciones tecnológicas. Me enfoco en mejorar continuamente mis habilidades, participar en proyectos reales y colaborar con equipos que desarrollen software innovador y de calidad.
 
 ## 🚀 Tecnologías y Herramientas
-
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
